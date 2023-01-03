@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+html, body{
+    padding: 0px;
+    margin: none;
+}
+
+.logo{
+    font-family: 'Oleo Script', cursive;
+    font-size: 2rem;
+}
+header h1, header h2{
+    line-height: 0.5rem;
+}
+header h2{
+    font-family: 'Righteous', cursive;
+    font-size: 0.9rem;
+    font-weight: 250;
+    opacity: 0.75;
+}
